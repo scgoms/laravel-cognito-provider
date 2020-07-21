@@ -1,5 +1,5 @@
 {
-  "name": "customergauge/cognito",
+  "name": "goms/cognito",
   "description": "AWS Cognito provider for Laravel Authentication",
   "type": "library",
   "license": "MIT",
